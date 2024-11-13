@@ -51,5 +51,5 @@ Was inspired by https://github.com/conveyal/maven-semantic-release. It differs i
 | snapshotCommitMessage | <code>string</code> | <code>&quot;&#x27;chore:&quot;</code> | setting next snapshot version [skip ci]' The commit message used if a new snapshot version should be created. |
 | debug | <code>boolean</code> | <code>false</code> | Sets the `-X` option for all maven calls. |
 | mvnw | <code>boolean</code> | <code>false</code> | Use the mvnw script instead of mvn |
-| opts | <code>string</code> | <code>&quot;assign&quot;</code> | additional set of options |
+| opts | <code>string</code> |  | additional set of options |
 <!-- AUTO_GENERATED_OPTIONS -->
